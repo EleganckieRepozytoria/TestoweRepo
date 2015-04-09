@@ -1,4 +1,4 @@
-package com.company;
+package gita.testujemy;
 
 import java.awt.AWTException;
     import java.awt.Dimension;
@@ -27,10 +27,7 @@ import java.awt.AWTException;
         /*
          * Metoda drukuje tekst "Elegancko"
          * TU ZOSTAWCIE KURSOR PRZED URUCHOMIENIEM !!!
-         * testowy
-         *  tekst
-         *   od
-         *    madzi
+         *
          */
         public void printText() {
             String to_print = "testowy \n tekst \n od \n Madzi";
