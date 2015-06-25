@@ -1,0 +1,36 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="751" measuredH="481" mockupW="634" mockupH="461">
+  <controls>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="117" y="20" w="634" h="461" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>14540253</color>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::TextArea" x="182" y="118" w="378" h="104" measuredW="200" measuredH="140" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <bold>false</bold>
+        <color>10470904</color>
+        <italic>false</italic>
+        <size>40</size>
+        <text>Dzi%u0119kujemy%20za%20oddanie%20g%u0142osu</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Button" x="608" y="118" w="122" h="35" measuredW="69" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>5865130</color>
+        <text>Wyloguj</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Button" x="608" y="181" w="122" h="35" measuredW="112" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>5865130</color>
+        <text>Strona%20g%u0142%F3wna</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::DateChooser" x="182" y="389" w="142" h="-1" measuredW="142" measuredH="25" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>9%20%20/%2006%20/%20%202015%20%20</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

@@ -1,0 +1,99 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="830" measuredH="493" mockupW="634" mockupH="461">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="196" y="32" w="634" h="461" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <color>14540253</color>
+        <text>A%20Web%20Page%0Ahttp%3A//</text>
+        <value>0</value>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Title" x="234" y="129" w="-1" h="-1" measuredW="522" measuredH="21" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>545684</color>
+        <italic>true</italic>
+        <size>18</size>
+        <text>Zintegrowany%20system%20sterowania%20procesem%20demokratycznym</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Button" x="228" y="347" w="122" h="35" measuredW="72" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>5865130</color>
+        <menuIcon>false</menuIcon>
+        <size>14</size>
+        <state>up</state>
+        <text>Zaloguj</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Button" x="634" y="347" w="122" h="35" measuredW="75" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>5865130</color>
+        <menuIcon>false</menuIcon>
+        <size>14</size>
+        <state>up</state>
+        <text>Wyloguj</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Label" x="234" y="175" w="-1" h="-1" measuredW="138" measuredH="24" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>472931</color>
+        <italic>false</italic>
+        <size>16</size>
+        <text>Wprowad%u017A%20PESEL%3A</text>
+        <underline>false</underline>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Label" x="234" y="220" w="-1" h="-1" measuredW="143" measuredH="24" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>472931</color>
+        <italic>false</italic>
+        <size>16</size>
+        <text>Wprowad%u017A%20HAS%u0141O%3A</text>
+        <underline>false</underline>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::TextInput" x="426" y="174" w="266" h="-1" measuredW="55" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>disabled</state>
+        <text>PESEL</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::TextInput" x="426" y="214" w="266" h="-1" measuredW="59" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>disabled</state>
+        <text>HAS%u0141O</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Link" x="580" y="244" w="-1" h="-1" measuredW="112" measuredH="18" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <italic>true</italic>
+        <size>12</size>
+        <text>Zapomnia%u0142em%20has%u0142a</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Link" x="475" y="244" w="-1" h="-1" measuredW="77" measuredH="18" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <italic>true</italic>
+        <size>12</size>
+        <text>Zmiana%20has%u0142a</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::ComboBox" x="423" y="276" w="270" h="-1" measuredW="85" measuredH="24" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>5865130</color>
+        <text>Urz%u0119dnik</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::DateChooser" x="228" y="416" w="-1" h="-1" measuredW="142" measuredH="25" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%209%20/%2006%20/%202015%20%20%20</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
